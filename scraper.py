@@ -2,4 +2,4 @@ import scrapy
 
 class JobSpider(scrapy.Spider):
     name = "job_spider"
-    start_urls = ["google.com"]
+    start_urls = ["linkedin.com"]
